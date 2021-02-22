@@ -6,7 +6,8 @@
 	<test name="TestCases">
 		<groups>
 			<run>
-				<include name=".*"/>
+				<include name="P1"/>
+				<include name="P2"/>
 			</run>
 		</groups>
 

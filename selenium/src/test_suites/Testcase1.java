@@ -1,10 +1,12 @@
 package test_suites;
 
+import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
 import driversetup.TestBaseClass;
 
 public class Testcase1 extends TestBaseClass {
+
 
 	@Test(groups = { "P1" })
 	public void tCase6() {

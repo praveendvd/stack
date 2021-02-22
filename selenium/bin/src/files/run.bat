@@ -1,1 +1,0 @@
-start java -jar Selenium_basic-0.0.1-SNAPSHOT.jar
