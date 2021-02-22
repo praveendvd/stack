@@ -2,7 +2,7 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-02-22T10:05:03 GMT" name="Default suite" finished-at="2021-02-22T10:05:03 GMT" duration-ms="117">
+  <suite started-at="2021-02-22T10:09:34 GMT" name="Default suite" finished-at="2021-02-22T10:09:34 GMT" duration-ms="110">
     <groups>
       <group name="P1">
         <method signature="Testcase1.tCase6()[pri:0, instance:test_suites.Testcase1@481a996b]" name="tCase6" class="test_suites.Testcase1"/>
@@ -14,41 +14,41 @@
         <method signature="Testcase1.tCase8()[pri:0, instance:test_suites.Testcase1@481a996b]" name="tCase8" class="test_suites.Testcase1"/>
       </group> <!-- P3 -->
     </groups>
-    <test started-at="2021-02-22T10:05:03 GMT" name="Default test" finished-at="2021-02-22T10:05:03 GMT" duration-ms="117">
+    <test started-at="2021-02-22T10:09:34 GMT" name="Default test" finished-at="2021-02-22T10:09:34 GMT" duration-ms="110">
       <class name="test_suites.Testcase1">
-        <test-method is-config="true" signature="bmeth1()[pri:0, instance:test_suites.Testcase1@481a996b]" started-at="2021-02-22T10:05:03 GMT" name="bmeth1" finished-at="2021-02-22T10:05:03 GMT" duration-ms="29" status="PASS">
+        <test-method is-config="true" signature="bmeth1()[pri:0, instance:test_suites.Testcase1@481a996b]" started-at="2021-02-22T10:09:34 GMT" name="bmeth1" finished-at="2021-02-22T10:09:34 GMT" duration-ms="23" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- bmeth1 -->
-        <test-method signature="tCase6()[pri:0, instance:test_suites.Testcase1@481a996b]" started-at="2021-02-22T10:05:03 GMT" name="tCase6" finished-at="2021-02-22T10:05:03 GMT" duration-ms="9" status="PASS">
+        <test-method signature="tCase6()[pri:0, instance:test_suites.Testcase1@481a996b]" started-at="2021-02-22T10:09:34 GMT" name="tCase6" finished-at="2021-02-22T10:09:34 GMT" duration-ms="10" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tCase6 -->
-        <test-method is-config="true" signature="ameth1()[pri:0, instance:test_suites.Testcase1@481a996b]" started-at="2021-02-22T10:05:03 GMT" name="ameth1" finished-at="2021-02-22T10:05:03 GMT" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="ameth1()[pri:0, instance:test_suites.Testcase1@481a996b]" started-at="2021-02-22T10:09:34 GMT" name="ameth1" finished-at="2021-02-22T10:09:34 GMT" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ameth1 -->
-        <test-method is-config="true" signature="bmeth2()[pri:0, instance:test_suites.Testcase1@481a996b]" started-at="2021-02-22T10:05:03 GMT" name="bmeth2" finished-at="2021-02-22T10:05:03 GMT" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="bmeth2()[pri:0, instance:test_suites.Testcase1@481a996b]" started-at="2021-02-22T10:09:34 GMT" name="bmeth2" finished-at="2021-02-22T10:09:34 GMT" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- bmeth2 -->
-        <test-method signature="tCase7()[pri:0, instance:test_suites.Testcase1@481a996b]" started-at="2021-02-22T10:05:03 GMT" name="tCase7" finished-at="2021-02-22T10:05:03 GMT" duration-ms="2" status="PASS">
+        <test-method signature="tCase7()[pri:0, instance:test_suites.Testcase1@481a996b]" started-at="2021-02-22T10:09:34 GMT" name="tCase7" finished-at="2021-02-22T10:09:34 GMT" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tCase7 -->
-        <test-method is-config="true" signature="ameth2()[pri:0, instance:test_suites.Testcase1@481a996b]" started-at="2021-02-22T10:05:03 GMT" name="ameth2" finished-at="2021-02-22T10:05:03 GMT" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="ameth2()[pri:0, instance:test_suites.Testcase1@481a996b]" started-at="2021-02-22T10:09:34 GMT" name="ameth2" finished-at="2021-02-22T10:09:34 GMT" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ameth2 -->
-        <test-method is-config="true" signature="bmeth3()[pri:0, instance:test_suites.Testcase1@481a996b]" started-at="2021-02-22T10:05:03 GMT" name="bmeth3" finished-at="2021-02-22T10:05:03 GMT" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="bmeth3()[pri:0, instance:test_suites.Testcase1@481a996b]" started-at="2021-02-22T10:09:34 GMT" name="bmeth3" finished-at="2021-02-22T10:09:34 GMT" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- bmeth3 -->
-        <test-method signature="tCase8()[pri:0, instance:test_suites.Testcase1@481a996b]" started-at="2021-02-22T10:05:03 GMT" name="tCase8" finished-at="2021-02-22T10:05:03 GMT" duration-ms="2" status="PASS">
+        <test-method signature="tCase8()[pri:0, instance:test_suites.Testcase1@481a996b]" started-at="2021-02-22T10:09:34 GMT" name="tCase8" finished-at="2021-02-22T10:09:34 GMT" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tCase8 -->
-        <test-method is-config="true" signature="ameth3()[pri:0, instance:test_suites.Testcase1@481a996b]" started-at="2021-02-22T10:05:03 GMT" name="ameth3" finished-at="2021-02-22T10:05:03 GMT" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="ameth3()[pri:0, instance:test_suites.Testcase1@481a996b]" started-at="2021-02-22T10:09:34 GMT" name="ameth3" finished-at="2021-02-22T10:09:34 GMT" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ameth3 -->
